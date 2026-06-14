@@ -1,5 +1,5 @@
 👋 Hi, I'm Davit Lursmanashvili. 
 
-🌐 www.davitl.com
-✉️ lursmanashvilidavit@gmail.com
-💼 LinkedIn: www.linkedin.com/in/davit-lursmanashvili
+🌐 [davitl.com](https://www.davitl.com)<br>
+✉️ [lursmanashvilidavit@gmail.com](mailto:lursmanashvilidavit@gmail.com)<br>
+💼 [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)
